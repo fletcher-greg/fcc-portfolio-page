@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8d6e6b96fd2484747dd5af0c97c3d17",
+    "revision": "dffdb9b4382c6104a2862db56c3112da",
     "url": "/fcc-portfolio-page/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fcc-portfolio-page/static/css/2.76f291a2.chunk.css"
   },
   {
-    "revision": "004de177be1c0d04cd79",
+    "revision": "3489b2a060a2ce419462",
     "url": "/fcc-portfolio-page/static/css/main.92f786cf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fcc-portfolio-page/static/js/2.b3098c27.chunk.js"
   },
   {
-    "revision": "004de177be1c0d04cd79",
-    "url": "/fcc-portfolio-page/static/js/main.dcaa0bbb.chunk.js"
+    "revision": "3489b2a060a2ce419462",
+    "url": "/fcc-portfolio-page/static/js/main.238fea76.chunk.js"
   },
   {
     "revision": "9d5208330ced1898a0b3",
