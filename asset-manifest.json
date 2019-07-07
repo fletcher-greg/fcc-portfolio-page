@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fcc-portfolio-page/static/css/main.4dd0129e.chunk.css",
-    "main.js": "/fcc-portfolio-page/static/js/main.a4429e88.chunk.js",
-    "main.js.map": "/fcc-portfolio-page/static/js/main.a4429e88.chunk.js.map",
+    "main.css": "/fcc-portfolio-page/static/css/main.92f786cf.chunk.css",
+    "main.js": "/fcc-portfolio-page/static/js/main.dcaa0bbb.chunk.js",
+    "main.js.map": "/fcc-portfolio-page/static/js/main.dcaa0bbb.chunk.js.map",
     "runtime~main.js": "/fcc-portfolio-page/static/js/runtime~main.97274f4b.js",
     "runtime~main.js.map": "/fcc-portfolio-page/static/js/runtime~main.97274f4b.js.map",
     "static/css/2.76f291a2.chunk.css": "/fcc-portfolio-page/static/css/2.76f291a2.chunk.css",
     "static/js/2.b3098c27.chunk.js": "/fcc-portfolio-page/static/js/2.b3098c27.chunk.js",
     "static/js/2.b3098c27.chunk.js.map": "/fcc-portfolio-page/static/js/2.b3098c27.chunk.js.map",
     "index.html": "/fcc-portfolio-page/index.html",
-    "precache-manifest.4723d74954e1f2628b424ff40877b251.js": "/fcc-portfolio-page/precache-manifest.4723d74954e1f2628b424ff40877b251.js",
+    "precache-manifest.21a4e5abf336f0e4ef2f4652e72a665b.js": "/fcc-portfolio-page/precache-manifest.21a4e5abf336f0e4ef2f4652e72a665b.js",
     "service-worker.js": "/fcc-portfolio-page/service-worker.js",
     "static/css/2.76f291a2.chunk.css.map": "/fcc-portfolio-page/static/css/2.76f291a2.chunk.css.map",
-    "static/css/main.4dd0129e.chunk.css.map": "/fcc-portfolio-page/static/css/main.4dd0129e.chunk.css.map"
+    "static/css/main.92f786cf.chunk.css.map": "/fcc-portfolio-page/static/css/main.92f786cf.chunk.css.map"
   }
 }
